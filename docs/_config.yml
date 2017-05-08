@@ -1,5 +1,35 @@
-title: Jekyll Admin
-description: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+title: comercio electronico
+description: Definición de Comecio Electronico
+El comercio electrónico consiste en realizar electrónicamente transacciones comerciales. Está basado en el tratamiento y transmisión electrónica de datos, incluidos texto, imágenes y vídeo. El comercio electrónico comprende actividades muy diversas, como comercio electrónico de bienes y servicios, suministro en línea de contenidos digitales, transferencia electrónica de fondos, compraventa electrónica de acciones, conocimientos de embarque electrónicos, subastas, diseños y proyectos conjuntos, prestación de servicios en línea (on line sourcing), contratación pública, comercialización directa al consumidor y servicios posventa. Por otra parte, abarca a la vez productos (p.ej., bienes de consumo, equipo médico especializado) y servicios (p.ej., servicios de información, financieros y jurídicos), actividades tradicionales (p.ej., asistencia sanitaria, educación) y nuevas actividades (p.ej., centros comerciales virtuales).
+Orígenes del comercio electrónico
+El comercio electrónico, como intercambio electrónico de datos (IED), se originó en los Estados Unidos en los 60's con iniciativas independientes en los sectores del ferrocarril, negocios al detal, verdulerías y fábricas de automóviles y fue diseñado para fortalecer la calidad de los datos que ellos estaban intercambiando con otros en la cadena de proveedores y usándolo para sus procesos internos. En los 70's la transferencia electrónica de fondos (TEF) a través de redes de seguridad privadas dentro de las instituciones financieras expandió el uso de las tecnologías de telecomunicación para propósitos comerciales, permitiendo el desarrollo del intercambio computador a computador de la información operacional comercial en el área financiera, específicamente la transferencia de giros y pagos. El IED usa documentos electrónicos con formato estándar que reemplazan los documentos comerciales comunes, tales como, facturas, conocimientos de embarque, órdenes de compra, cambios en órdenes de compra, requerimientos de cotizaciones y recepción de avisos - los 6 tipos más comunes de documentos comerciales que constituyen el 85% de las transacciones comerciales oficiales en los Estados Unidos (Kalakota y Whinston 1997: 376).
+
+A principios de 1920, surgieron en Estados Unidos las ventas por catálogo. Dicho sistema revolucionario de distribución ofrecía bienes y servicios mediante fotos impresas del producto a vender, lo que le dio a muchos negocios la oportunidad de llegar a áreas rurales y a públicos que no había sido posible alcanzar. Este tipo de comercialización tuvo su mayor auge con la aparición de las tarjetas de crédito, lo que permitía el total anonimato entre el proveedor y el comprador
+En 1970, surgen las primeras relaciones comerciales que utilizan el computador para la transmisión de datos, y en 1980, gracias a la televisión, se imponen las ventas directas o 'televentas', una modernización del comercio por catálogo que permite mostrar con mejores posibilidades los productos ofrecidos, puesto que ofrece la opción de mostrar y resaltar las características del producto o servicio ofrecido. La gran mayoría de estas ventas se realizan por teléfono y por lo general se pagan con tarjeta de crédito.
+Servicios identificados en las transacciones e-commerce
+De acuerdo con parámetros establecidos por Mercado Libre, una de las empresas más grandes de comercio electrónico a nivel mundial, en las transacciones de E-commerce se identifican los siguientes servicios:
+•	La vía electrónica como medio para la contratación de bienes o servicios.
+•	La organización y gestión de subastas por medios electrónicos o de mercados y centros comerciales virtuales.
+•	La gestión de compras en red por grupos de personas.
+•	El envío de comunicaciones comerciales.
+•	El suministro de información por vía telemática.
+El vídeo bajo demanda, como servicio en el que a través de la red el usuario puede seleccionar el programa deseado, y el momento de su suministro y recepción.
+De acuerdo con Mercado Libre, no se consideran E-commerce las siguientes situaciones:
+1.	Los servicios prestados por medio de telefonía vocal, fax o télex.
+2.	Los servicios de radiodifusión televisiva.
+3.	Los servicios de radiodifusión sonora.
+4.	El teletexto televisivo y otros servicios equivalentes, como las guías y programas ofrecidos a través de plataformas de TV.
+Concluye, Mercado Libre diciendo: "la característica fundamental del comercio electrónico es que la oferta y la aceptación de la misma, se realizan online, existiendo la alternativa de efectuarse el pago también online".
+Es importante aclarar que las actividades que antecedieron al comercio electrónico no son consideradas hoy en día como E-commerce, dado que este debe su nombre a la interacción a través de las Tecnologías de la Información y las Comunicaciones.
+Tiendas en línea
+Casi todos los sitios de comercio electrónico son tiendas en línea que tienen al menos los siguientes elementos en el nivel de sistemas de atención al cliente:
+•	Un catálogo electrónico en línea que ofrece una lista de todos los productos a la venta, sus precios y a veces su disponibilidad (si el producto está en existencia o la cantidad de días hasta la entrega).
+•	Un motor de búsqueda que permite localizar un producto fácilmente mediante criterios de búsqueda (marca, margen de precios, palabra clave, etc.).
+•	Un sistema de contenedor virtual (a veces llamado carro virtual); es la parte central del comercio electrónico. El contenedor virtual permite rastrear el trayecto de las compras del cliente y modificar las cantidades de cada referencia.
+•	El pago en línea seguro (cuenta) a menudo está garantizado por un tercero de confianza (un banco) a través de una transacción segura.
+•	Un sistema de rastreo de pedidos que permite rastrear el proceso del pedido y a veces proporciona información sobre la recogida del paquete por parte del expedidor.
+Un sistema administrativo que permite a los comerciantes en línea organizar sus ofertas, modificar los precios, añadir o eliminar referencias de productos y también gestionar y manejar los pedidos de los clientes.
+
 
 collections:
   frontend:
